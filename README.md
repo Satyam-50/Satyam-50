@@ -1,5 +1,5 @@
 Hi, I’m Satyam 👋
-![](https://github-profile-trophy.vercel.app/?username=Satyam-50&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 🎓 Engineering Student | 💻 Full-Stack Developer | 🤖 AI & ML Enthusiast
 I enjoy building scalable web applications and exploring AI/ML to solve real-world problems.
 Currently learning systems, backend development, and applied machine learning.
