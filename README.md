@@ -16,11 +16,9 @@ Currently learning systems, backend development, and applied machine learning.
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Satyam-50&show_icons=true&theme=dark&hide_border=false)
+![Satyam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Satyam-50&show_icons=true&theme=github_dark&cache_seconds=1800)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Satyam-50&theme=dark&hide_border=false)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Satyam-50&layout=compact&theme=dark&hide_border=false)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Satyam-50&layout=compact&theme=github_dark)
 
 ## 🚀 Tech Stack
 
